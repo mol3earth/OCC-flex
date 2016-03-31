@@ -11,4 +11,4 @@ to a suite of flexural models. This suite is constructed according to variables 
 For each feature a display of variable fits by sigma is plotted.
 As well as the best fitting model is displayed over the original features topography.  
 
-Provided is a structure that already contains profiles, and relevant information so that the inversion routine can be tested. 
+I have provided most of the files needed to test the routine. Sadly the grid file is too big to host on github, I will find a place to host it, and provide a link here.
